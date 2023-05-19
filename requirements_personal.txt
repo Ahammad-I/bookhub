@@ -5,3 +5,4 @@ psycopg2
 pytz
 sqlparse
 typing-extensions
+crispy-bootstrap5
