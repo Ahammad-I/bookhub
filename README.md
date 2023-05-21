@@ -50,6 +50,6 @@ $ python manage.py runserver
 
 | Name                                            | Roll Number | Year      | Department             |
 | ----------------------------------------------- | ----------- | --------- | ---------------------- |
-| [Nadendla Ahammad Hussain](https://github.com/Ahammad-I)    | B19BB030   | Sophomore | Bioscience and bioengineering  |
+| [Nadendla Ahammad Hussain](https://github.com/Ahammad-I)    | B19BB030   | final year | Bioscience and bioengineering  |
 |
 
